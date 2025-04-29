@@ -59,10 +59,10 @@ export const education = [
   },
   {
     id: 2,
-    school: "Kendriya Vidyalaya Shahjahanpur Cantt",
+    school: "Orchid the International",
     date: "2019 – 2020",
-    grade: "Percentage: 79.56%",
-    desc: "10th with Science",
+    grade: "Percentage: 80%",
+    desc: "10th with CBSE board",
     degree: "Matriculation"
   }
 ];
